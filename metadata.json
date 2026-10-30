@@ -1,0 +1,6 @@
+{
+  "name": "Scan",
+  "description": "Scanner de sécurité web intelligent CMS-aware, détection OWASP Top 10, sondes XSS/SQL non destructives, audit architectural, export de rapports JSON/PDF et synchronisation cloud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

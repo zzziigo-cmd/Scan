@@ -1,0 +1,9 @@
+Scan.zip
+app/google-services.json
+local.properties
+*.jks
+*.keystore
+/build/
+**/build/
+.gradle/
+.idea/
