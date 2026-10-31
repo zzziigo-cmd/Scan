@@ -43,7 +43,7 @@ jobs:
         run: |
           if [ ! -f gradlew ] || [ ! -f gradle/wrapper/gradle-wrapper.jar ]; then
             echo "Missing Gradle wrapper, generating it..."
-            gradle wrapper --gradle-version 8.11.1
+            gradle wrapper --gradle-version 9.8.2
           else
             echo "Gradle wrapper already exists."
           fi
